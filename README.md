@@ -43,7 +43,7 @@ Kontribusi sangat terbuka! Jika ingin berkontribusi:
 4. Kirim pull request.
 
 ## 📜 Lisensi
-Proyek ini menggunakan lisensi **MIT**. Silakan lihat file [LICENSE](LICENSE.txt) untuk informasi lebih lanjut.
+Proyek ini menggunakan lisensi **MIT**. Silakan lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
 
 💡 **Terima kasih telah menggunakan proyek ini! Semoga bermanfaat.** 🚀
 
