@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dampak Kebakaran Hutan</title>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+    <style>
+        body {
+            font-family: 'Comfortaa', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #181818;
+            color: #f0f0f0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        header {
+            background-color: rgba(0, 0, 0, 0.6);
+            padding: 1rem;
+            text-align: center;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+            backdrop-filter: blur(10px);
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+        }
+
+        header nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        header nav ul li {
+            display: inline;
+        }
+
+        header nav ul li a {
+            color: #ff9a8b;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        main {
+            flex: 1;
+            padding: 2rem;
+        }
+
+        #landing {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        #landing .content {
+            display: inline-block;
+            background-color: rgba(0, 0, 0, 0.6);
+            padding: 1rem 2rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+        }
+
+        #landing .content .text h1 {
+            font-size: 2.5rem;
+            color: #ff9a8b;
+        }
+
+        .warning-section h2 {
+            font-size: 2rem;
+            color: #ff9a8b;
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        .slide-cards-container {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-top: 2rem;
+        }
+
+        .card {
+            width: 250px;
+            background-color: rgba(0, 0, 0, 0.6);
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .card img {
+            width: 100%;
+            height: 150px;
+            object-fit: cover;
+        }
+
+        .card-content {
+            padding: 1rem;
+        }
+
+        .card-content h3 {
+            font-size: 1.25rem;
+            color: #ff9a8b;
+        }
+
+        .card-content p {
+            font-size: 1rem;
+            color: #fff;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #888;
+            font-size: 0.9rem;
+            margin-top: auto;
+            backdrop-filter: blur(10px);
+            box-shadow: 0px -4px 6px rgba(0, 0, 0, 0.3);
+        }
+
+        footer a {
+            color: #ff9a8b;
+            text-decoration: none;
+        }
+
+        .btn {
+            background-color: #ff9a8b;
+            color: white;
+            padding: 0.75rem 2rem;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            display: inline-block;
+            margin-top: 1rem;
+        }
+
+        .btn:hover {
+            background-color: #f57c77;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="team.html">Our Team</a></li>
+                <li><a href="map.html">Map</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="landing">
+            <div class="content"> 
+                <div class="text" data-text="Bahaya Kebakaran Hutan"> <h1>Bahaya Kebakaran Hutan</h1></div>
+            </div>
+            <p>Temukan informasi penting tentang dampak kebakaran hutan.</p>
+            <a href="map.html" class="btn">Lihat Peta</a>
+        </section>
+
+        <section class="warning-section">
+            <h2>Dampak Kebakaran Hutan</h2>
+            <p>
+                Kebakaran hutan memiliki dampak yang sangat besar terhadap lingkungan, ekonomi, dan kehidupan manusia. Dampak tersebut tidak hanya terasa dalam jangka pendek tetapi juga dapat berlanjut dalam waktu yang sangat lama. Sebagai salah satu bencana alam yang paling merusak, kebakaran hutan mengancam kelangsungan hidup berbagai spesies dan dapat memengaruhi banyak sektor dalam kehidupan manusia, mulai dari kesehatan hingga perekonomian.
+
+                Kebakaran hutan menyebabkan kerusakan besar terhadap ekosistem alami. Hutan adalah rumah bagi berbagai jenis flora dan fauna, yang banyak di antaranya sangat bergantung pada keberadaan ekosistem hutan untuk bertahan hidup. Ketika kebakaran terjadi, banyak spesies yang terpaksa kehilangan habitat mereka, mengarah pada pengurangan populasi bahkan kepunahan spesies tertentu. Selain itu, kebakaran hutan juga mengganggu rantai makanan dan keseimbangan ekosistem, yang pada akhirnya mempengaruhi keberlanjutan alam secara keseluruhan. Kebakaran dapat menghilangkan tanaman penghasil oksigen, yang penting untuk kehidupan makhluk hidup, serta mengubah komposisi tanah yang dapat mempengaruhi kesuburan tanah untuk bertumbuhnya tanaman.
+            </p>
+
+            <!-- Slide Cards Section -->
+            <div class="slide-cards-container">
+                <div class="card" id="card1">
+                    <img src="https://www.greeners.co/wp-content/uploads/2015/09/Ribuan_Orang_Terserang_ISPA_Akibat_Kebakaran_Hutan.jpg" alt="Kebakaran Hutan">
+                    <div class="card-content">
+                        <h3>Dampak pada Kesehatan Manusia</h3>
+                        <p>Kebakaran hutan melepaskan asap berbahaya yang mengandung partikel halus, yang dapat menyebabkan gangguan pernapasan dan memperburuk kondisi jantung.</p>
+                    </div>
+                </div>
+                <div class="card" id="card2">
+                    <img src="https://gisact.org/wp-content/uploads/2022/02/Opini-Dion-scaled.jpg" alt="Ekosistem Terganggu">
+                    <div class="card-content">
+                        <h3>Perusakan Ekosistem</h3>
+                        <p>Hutan yang terbakar kehilangan berbagai jenis flora dan fauna yang vital. Kebakaran juga mengubah pola alam dan menurunkan biodiversitas yang ada.</p>
+                    </div>
+                </div>
+                <div class="card" id="card3">
+                    <img src="https://www.mongabay.co.id/wp-content/uploads/2019/11/Falahi-Mubarok-Kebakaran-Hutan-dan-Lahan-1.jpg" alt="Kerugian Ekonomi">
+                    <div class="card-content">
+                        <h3>Kerugian Ekonomi</h3>
+                        <p>Kerusakan akibat kebakaran hutan tidak hanya terbatas pada lingkungan, tetapi juga pada ekonomi. Kerugian terbesar datang dari sektor pertanian dan infrastruktur.</p>
+                    </div>
+                </div>
+                <div class="card" id="card4">
+                    <img src="https://ik.trn.asia/uploads/2023/09/1693870705396.jpeg?tr=h-600" alt="Dampak Sosial">
+                    <div class="card-content">
+                        <h3>Dampak Sosial</h3>
+                        <p>Selain kerugian materi, kebakaran hutan juga menyebabkan masyarakat terpaksa mengungsi dan kehilangan tempat tinggal, yang meningkatkan ketegangan sosial.</p>
+                    </div>
+                </div>
+                <div class="card" id="card5">
+                    <img src="https://www.asianagri.com/wp-content/uploads/2019/02/Asian_Agri-Pencegahan-Kebakaran-4-4-4.JPG" alt="Mitigasi Kebakaran Hutan">
+                    <div class="card-content">
+                        <h3>Mitigasi dan Pencegahan</h3>
+                        <p>Untuk mengurangi dampak kebakaran hutan, upaya mitigasi yang tepat harus dilakukan dengan kebijakan pengelolaan hutan yang lebih baik.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 <a href="#">Kelompok 5</a>. Semua Hak Dilindungi.</p>
+    </footer>
+
+    <script>
+        const cards = document.querySelectorAll('.card');
+
+        cards.forEach(card => {
+            card.addEventListener('mouseenter', () => {
+                card.classList.add('focused');
+            });
+
+            card.addEventListener('mouseleave', () => {
+                card.classList.remove('focused');
+            });
+        });
+
+        let currentIndex = 0;
+
+        function updateCards() {
+            cards.forEach((card, index) => {
+                card.classList.remove('focused');
+                if (index === currentIndex) {
+                    card.classList.add('focused');
+                }
+            });
+        }
+
+        function moveSlide(direction) {
+            if (direction === 'next') {
+                currentIndex = (currentIndex + 1) % cards.length;
+            } else {
+                currentIndex = (currentIndex - 1 + cards.length) % cards.length;
+            }
+            updateCards();
+        }
+
+        // Initial update to focus the first card
+        updateCards();
+    </script>
+</body>
+</html>

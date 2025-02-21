@@ -1,0 +1,575 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.16195044617101,
+          1.5194935848556199
+        ]
+      },
+      "properties": {
+        "No": 1,
+        "Nama Pemetaan": "Rantau Bais",
+        "Alamat": "Rantau Bais, Kec. Tanah Putih, Kabupaten Rokan Hilir, Riau",
+        "Foto Lokasi": "gambar/RantauBais.png",
+        "y": 1.5194935848556199,
+        "X": 101.16195044617101,
+        "Kabupaten": "Rokan Hilir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.531710312123,
+          0.49561615062766001
+        ]
+      },
+      "properties": {
+        "No": 2,
+        "Nama Pemetaan": "Bencah Lesung",
+        "Alamat": "FGWJ+3MQ Bencah Lesung, Kota Pekanbaru, Riau",
+        "Foto Lokasi": "gambar/Pekanbaru.jpeg",
+        "y": 0.49561615062766001,
+        "X": 101.531710312123,
+        "Kabupaten": "Pekanbaru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.496968268125,
+          -0.148980610578057
+        ]
+      },
+      "properties": {
+        "No": 3,
+        "Nama Pemetaan": "Kerumutan desa sungai Guntung tengah",
+        "Alamat": "Kec. Rengat, Kabupaten Indragiri Hulu, Riau",
+        "Foto Lokasi": "gambar/DesaSungaiGuntung.png",
+        "y": -0.148980610578057,
+        "X": 102.496968268125,
+        "Kabupaten": "Indragiri Hulu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.994000147165,
+          1.8723327905807401
+        ]
+      },
+      "properties": {
+        "No": 4,
+        "Nama Pemetaan": "Desa Langgadai",
+        "Alamat": "Lenggadai Hulu, Kec. Rimba Melintang, Kabupaten Rokan Hilir, Riau",
+        "Foto Lokasi": "gambar/KebakarandiRohil.jpeg",
+        "y": 1.8723327905807401,
+        "X": 100.994000147165,
+        "Kabupaten": "Rokan Hilir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.413575606571,
+          0.82814995876123298
+        ]
+      },
+      "properties": {
+        "No": 5,
+        "Nama Pemetaan": "Lahan Rambah Samo",
+        "Alamat": "Kec. Rambah Samo, Kabupaten Rokan Hulu, Riau",
+        "Foto Lokasi": "gambar/KebakaranhutanRohul.png",
+        "y": 0.82814995876123298,
+        "X": 100.413575606571,
+        "Kabupaten": "Rokan Hulu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.404800993897,
+          -0.68519743106072695
+        ]
+      },
+      "properties": {
+        "No": 6,
+        "Nama Pemetaan": "Lahan Bukit Desa Aur",
+        "Alamat": "Aur Duri Kec. Kuantan Mudik, Kabupaten Kuantan Singingi, Riau",
+        "Foto Lokasi": "gambar/DesaAur.jpeg",
+        "y": -0.68519743106072695,
+        "X": 101.404800993897,
+        "Kabupaten": "Kuantan Singingi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.78570053869799,
+          1.90636556444051
+        ]
+      },
+      "properties": {
+        "No": 7,
+        "Nama Pemetaan": "Dusun Mekar Jaya",
+        "Alamat": "Dusun Mekar Jaya, Desa Sungai Pinang, Kecamatan Kubu, Kabupaten Rokan Hilir, Provinsi Riau",
+        "Foto Lokasi": "gambar/Rohil.jpg",
+        "y": 1.90636556444051,
+        "X": 100.78570053869799,
+        "Kabupaten": "Rokan Hilir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.145910725205,
+          1.48080377831258
+        ]
+      },
+      "properties": {
+        "No": 8,
+        "Nama Pemetaan": "Air Putih",
+        "Alamat": "F4JW+69J Air Putih, Kabupaten Bengkalis, Riau",
+        "Foto Lokasi": "gambar/Bengkalis.png",
+        "y": 1.48080377831258,
+        "X": 102.145910725205,
+        "Kabupaten": "Bengkalis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.153721454039,
+          -0.38803907076088601
+        ]
+      },
+      "properties": {
+        "No": 9,
+        "Nama Pemetaan": "Seberang Tembilahan",
+        "Alamat": "J563+PFG Seberang Tembilahan, Kabupaten Indragiri Hilir, Riau",
+        "Foto Lokasi": "gambar/indragirihilir.png",
+        "y": -0.38803907076088601,
+        "X": 103.153721454039,
+        "Kabupaten": "Indragiri Hilir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.398364369383,
+          0.80936436577248205
+        ]
+      },
+      "properties": {
+        "No": 10,
+        "Nama Pemetaan": "Penyengat",
+        "Alamat": "Penyengat, Kec. Sungai Apit, Kabupaten Siak, Riau",
+        "Foto Lokasi": "gambar/karhutlaSiak.jpg",
+        "y": 0.80936436577248205,
+        "X": 102.398364369383,
+        "Kabupaten": "Siak"
+      }
+    },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.52274291171101,
+            -0.76491762527222196
+          ]
+        },
+        "properties": {
+          "No": 11,
+          "Nama Pemetaan": "Kawasan Hutan Lindung",
+          "Alamat": "Lubuk Ramo, Kec. Kuantan Mudik, Kabupaten Kuantan Singingi, Riau",
+          "Foto Lokasi": "gambar/KuantanSingingi.jpg",
+          "y": -0.76491762527222196,
+          "X": 101.52274291171101,
+          "Kabupaten": "Kuantan Singingi"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.453610725205,
+            1.6014965201843101
+          ]
+        },
+        "properties": {
+          "No": 12,
+          "Nama Pemetaan": "Paman Jaya",
+          "Alamat": "Mundam, Kec. Medang Kampai, Kota Dumai, Riau",
+          "Foto Lokasi": "gambar/dumaiii.png",
+          "y": 1.6014965201843101,
+          "X": 101.453610725205,
+          "Kabupaten": "Dumai"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.13344505081299,
+            1.4122383597707999
+          ]
+        },
+        "properties": {
+          "No": 13,
+          "Nama Pemetaan": "Lahan di konsesi PT Arara Abadi",
+          "Alamat": "Kec. Mandau, Kabupaten Bengkalis, Riau",
+          "Foto Lokasi": "gambar/Duriii.jpg",
+          "y": 1.4122383597707999,
+          "X": 101.13344505081299,
+          "Kabupaten": "Bengkalis"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.5790083222,
+            1.9354055595748401
+          ]
+        },
+        "properties": {
+          "No": 14,
+          "Nama Pemetaan": "Lahan di konsesi PT SRL Blok Pulau Rupat",
+          "Alamat": "WHPH+4GQ, Titi Akar, Kec. Rupat Utara, Kabupaten Bengkalis, Riau 28781",
+          "Foto Lokasi": "gambar/Rupat.jpg",
+          "y": 1.9354055595748401,
+          "X": 101.5790083222,
+          "Kabupaten": "Bengkalis"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.46886294614499,
+            1.6385216144989501
+          ]
+        },
+        "properties": {
+          "No": 15,
+          "Nama Pemetaan": "Tanjung Palas",
+          "Alamat": "Kelurahan Tanjung Palas, Kecamatan Dumai Timur, Kota Dumai, Riau",
+          "Foto Lokasi": "gambar/Dumai(1).png",
+          "y": 1.6385216144989501,
+          "X": 101.46886294614499,
+          "Kabupaten": "Dumai"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            100.383518302377,
+            2.30706074129349
+          ]
+        },
+        "properties": {
+          "No": 16,
+          "Nama Pemetaan": "Desa Pasir Limau Kapas",
+          "Alamat": "Desa Pasir Limau Kapas, Kecamatan Palika, Kab. Rokan Hilir, Riau",
+          "Foto Lokasi": "gambar/Rohill.jpg",
+          "y": 2.30706074129349,
+          "X": 100.383518302377,
+          "Kabupaten": "Rokan Hilir"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            100.31886622789401,
+            0.79089970612995097
+          ]
+        },
+        "properties": {
+          "No": 17,
+          "Nama Pemetaan": "Desa Sukamaju",
+          "Alamat": "Desa Sukamaju, Kecamatan Rambah, Kabupaten Rokan Hulu",
+          "Foto Lokasi": "gambar/Rohul.jpg",
+          "y": 0.79089970612995097,
+          "X": 100.31886622789401,
+          "Kabupaten": "Rokan Hulu"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.901235622767,
+            0.117146762601143
+          ]
+        },
+        "properties": {
+          "No": 18,
+          "Nama Pemetaan": "Gondai",
+          "Alamat": "Pangkalan Gondai, Langgam, Pelalawan Regency, Riau",
+          "Foto Lokasi": "gambar/Pelalawan.jpg",
+          "y": 0.117146762601143,
+          "X": 101.901235622767,
+          "Kabupaten": "Pelalawan"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.954092043363,
+            0.59831747589244
+          ]
+        },
+        "properties": {
+          "No": 19,
+          "Nama Pemetaan": "Pangkalan Balai",
+          "Alamat": "Kecamatan Dayun, Kabupaten Siak",
+          "Foto Lokasi": "gambar/Siak.jpg",
+          "y": 0.59831747589244,
+          "X": 101.954092043363,
+          "Kabupaten": "Siak"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            102.230505706291,
+            0.25191637074217399
+          ]
+        },
+        "properties": {
+          "No": 20,
+          "Nama Pemetaan": "Merbau",
+          "Alamat": "Desa Merbau, Kecamatan Bunut, Pelalawan",
+          "Foto Lokasi": "gambar/Pelalawan(1).jpg",
+          "y": 0.25191637074217399,
+          "X": 102.230505706291,
+          "Kabupaten": "Pelalawan"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            102.62884305957,
+            -0.23381206137746099
+          ]
+        },
+        "properties": {
+          "No": 21,
+          "Nama Pemetaan": "Pulau Gelang",
+          "Alamat": "Kec. Kuala Cenaku, Kab. Indragiri Hulu",
+          "Foto Lokasi": "gambar/inhu.jpg",
+          "y": -0.23381206137746099,
+          "X": 102.62884305957,
+          "Kabupaten": "Indragiri Hulu"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.45564772164801,
+            1.6109992470791501
+          ]
+        },
+        "properties": {
+          "No": 22,
+          "Nama Pemetaan": "Kelurahan Tanjung Palas",
+          "Alamat": "Kecamatan Dumai Timur, Kota Dumai, Riau",
+          "Foto Lokasi": "gambar/dumaii.jpeg",
+          "y": 1.6109992470791501,
+          "X": 101.45564772164801,
+          "Kabupaten": "Kota Dumai"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.592952778789,
+            1.54611375403813
+          ]
+        },
+        "properties": {
+          "No": 23,
+          "Nama Pemetaan": "Desa Pelintung",
+          "Alamat": "Kecamatan Medang Kampai, Dumai",
+          "Foto Lokasi": "gambar/dumai(2).jpeg",
+          "y": 1.54611375403813,
+          "X": 101.592952778789,
+          "Kabupaten": "Kota Dumai"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.120524465516,
+            0.24586029876582399
+          ]
+        },
+        "properties": {
+          "No": 24,
+          "Nama Pemetaan": "Simpang Kubu",
+          "Alamat": "Simpang Kubu, Kecamatan Kampar",
+          "Foto Lokasi": "gambar/kampar.jpg",
+          "y": 0.24586029876582399,
+          "X": 101.120524465516,
+          "Kabupaten": "Kampar"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.30830647790999,
+            0.55166247263926504
+          ]
+        },
+        "properties": {
+          "No": 25,
+          "Nama Pemetaan": "Desa Karya Indah",
+          "Alamat": "Kecamatan Tapung, Kabupaten Kampar, Riau",
+          "Foto Lokasi": "gambar/Kampar.jpeg",
+          "y": 0.55166247263926504,
+          "X": 101.30830647790999,
+          "Kabupaten": "Kampar"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.235344635582,
+            1.6453884016349001
+          ]
+        },
+        "properties": {
+          "No": 26,
+          "Nama Pemetaan": "Dusun Rokan Jaya",
+          "Alamat": "Kepenghuluan Mumugo, Kecamatan Tanah Putih, Kabupaten Rokan Hilir, Riau",
+          "Foto Lokasi": "gambar/Rokan Hilir.jpg",
+          "y": 1.6453884016349001,
+          "X": 101.235344635582,
+          "Kabupaten": "Rokan Hilir"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.03138987791,
+            1.1485999368655599
+          ]
+        },
+        "properties": {
+          "No": 27,
+          "Nama Pemetaan": "Desa Buluh Apo",
+          "Alamat": "Kecamatan Pinggir, Kabupaten Bengkalis, Riau",
+          "Foto Lokasi": "gambar/Duri.jpg",
+          "y": 1.1485999368655599,
+          "X": 101.03138987791,
+          "Kabupaten": "Bengkalis"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.03188536441699,
+            1.02157581470865
+          ]
+        },
+        "properties": {
+          "No": 28,
+          "Nama Pemetaan": "Desa Pauh",
+          "Alamat": "Kecamatan Bonai Darussalam, Kabupaten Rokan Hulu, Riau",
+          "Foto Lokasi": "gambar/Rokan Hulu.jpeg",
+          "y": 1.02157581470865,
+          "X": 101.03188536441699,
+          "Kabupaten": "Rokan Hulu"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            102.79955063558199,
+            0.88730291476807299
+          ]
+        },
+        "properties": {
+          "No": 29,
+          "Nama Pemetaan": "Desa Lukun",
+          "Alamat": "Kecamatan Tebing Tinggi Timur, Kabupaten Kepulauan Meranti, Riau",
+          "Foto Lokasi": "gambar/Meranti.jpg",
+          "y": 0.88730291476807299,
+          "X": 102.79955063558199,
+          "Kabupaten": "Kepulauan Meranti"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101.337189035582,
+            1.7027520163280001
+          ]
+        },
+        "properties": {
+          "No": 30,
+          "Nama Pemetaan": "Kelurahan Bangsal Aceh",
+          "Alamat": "Kecamatan Sungai Sembilan, Kabupaten Kota Dumai, Riau",
+          "Foto Lokasi": "gambar/Dumai.jpeg",
+          "y": 1.7027520163280001,
+          "X": 101.337189035582,
+          "Kabupaten": "Kota Dumai"
+        }
+      }
+    ]
+  }
