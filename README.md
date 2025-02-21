@@ -1,7 +1,7 @@
 # 🔥 WEB VISUALISASI TITIK KEBAKARAN HUTAN DI RIAU
 
 ## 📌 Deskripsi
-Proyek ini adalah sebuah website berbasis **OpenLayers** yang digunakan untuk **menampilkan titik lokasi kebakaran hutan di Riau** secara interaktif. Dengan menggunakan peta dinamis, pengguna dapat melihat lokasi kebakaran berdasarkan data yang tersedia.
+Proyek ini adalah sebuah website berbasis **OpenLayers** Sederhana yang digunakan untuk **menampilkan titik lokasi kebakaran hutan di Riau** secara interaktif. Dengan menggunakan peta dinamis, pengguna dapat melihat lokasi kebakaran berdasarkan data yang tersedia.
 
 ## 🚀 Fitur Utama
 - 🗺️ **Visualisasi titik kebakaran hutan** di wilayah Riau menggunakan **OpenLayers**.
